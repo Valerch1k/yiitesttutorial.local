@@ -35,7 +35,7 @@ class Categories extends \yii\db\ActiveRecord
     }
 
     /**
-     * @inheritdoc
+     * @inheritdoc test
      */
     public function attributeLabels()
     {
@@ -45,7 +45,6 @@ class Categories extends \yii\db\ActiveRecord
             'title' => 'Название',
             'keywords' => 'Keywords',
             'description' => 'Description',
-            
         ];
     }
 
