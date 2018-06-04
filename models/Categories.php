@@ -35,7 +35,7 @@ class Categories extends \yii\db\ActiveRecord
     }
 
     /**
-     * @inheritdoc test
+     * @inheritdoc test test
      */
     public function attributeLabels()
     {
